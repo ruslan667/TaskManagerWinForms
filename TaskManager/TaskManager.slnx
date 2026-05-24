@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Элементы решения/">
     <File Path=".gitignore" />
+    <File Path="Task.cs" />
   </Folder>
   <Project Path="TaskManager/TaskManager.csproj" />
 </Solution>
